@@ -1,6 +1,5 @@
-# TEOS-NFT-AI-Generator
-Official Monorepo for TEOS Network Ecosystem
 # TEOS NFT AI Generator
+Official TEOS Network Ecosystem
 
 **Empowering Cultural Expression through AI & NFTs**
 
