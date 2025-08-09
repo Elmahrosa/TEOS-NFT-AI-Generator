@@ -1,6 +1,7 @@
 # TEOS NFT AI Generator
 Official TEOS Network Ecosystem
 **Empowering Cultural Expression through AI & NFTs**
+> **TEOS NFT AI Generator** is a full-stack platform for generating culturally inspired NFTs using AI. Built with React + Flask, it supports multi-language prompts, Egyptian art styles, and is ready for blockchain minting (Solana, Ethereum). Phase 1 is live. Phase 2 (minting) launches September 2025.
 
  ![TEOS NFT AI Generator](https://img.shields.io/badge/Status-Live-brightgreen) ![Phase](https://img.shields.io/badge/Phase-1%20Complete-blue) ![License](https://img.shields.io/badge/License-TEOS%20Egypt-gold)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)
