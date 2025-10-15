@@ -1,3 +1,49 @@
+# 🧬 TEOS‑NFT‑AI‑Generator
+
+**Empowering Cultural Expression through AI & NFTs**  
+Civic-grade NFT generator transforming contributor prompts into ritual-grade digital artifacts — preserving Egypt’s blockchain legacy, one chapter at a time.
+
+---
+
+[![Stars](https://img.shields.io/github/stars/Elmahrosa/TEOS-NFT-AI-Generator?style=social)](https://github.com/Elmahrosa/TEOS-NFT-AI-Generator/stargazers)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+
+---
+
+## 🌐 Network Integration
+
+TEOS supports seamless deployment across leading blockchain networks:
+
+| Network    | Status    | Token Standard |
+|------------|-----------|----------------|
+| Ethereum   | ✅ Active | ERC-721        |
+| Solana     | ✅ Active | SPL Token/NFT  |
+| BNB Chain  | ✅ Active | BEP-721        |
+
+Each NFT is minted directly onto the selected chain, with metadata stored in decentralized storage (e.g. IPFS).
+
+---
+
+## 🔰 ERT & TGR Modules
+
+**ERT (Egyptian Ritual Tokenization)**  
+> Converts historical and mythic inputs into AI-rendered visual assets with ritual-grade metadata — embedding chapter, role, and cultural lineage.
+
+**TGR (Tokenized Guardian Rituals)**  
+> Enables faction-based minting for groups like Nile Guardians, Desert Coders, and Alexandria Archivists. Supports contributor badges, chapter alignment, and governance unlocks.
+
+---
+
+## ⚙ Code Setup (UPoF - Use, Pull, or Fork)
+
+```bash
+# 1. Clone the Repository
+git clone https://github.com/Elmahrosa/TEOS-NFT-AI-Generator.git
+cd TEOS-NFT-AI-Generator
+
+# 2. Install Dependencies (Choose backend)
+pip install -r requirements.txt   # F
+
   # 🧬 TEOS-NFT-AI-Generator
 
 **Empowering Cultural Expression through AI & NFTs**  
