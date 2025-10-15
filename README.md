@@ -1,4 +1,4 @@
-# 🧬 TEOS-NFT-AI-Generator
+  # 🧬 TEOS-NFT-AI-Generator
 
 **Empowering Cultural Expression through AI & NFTs**  
 A civic-grade NFT generator that transforms contributor prompts into ritual-grade digital artifacts — preserving Egypt’s blockchain legacy, one chapter at a time.
@@ -38,7 +38,6 @@ Inspired by modular flows from ChainGPT’s AI NFT Generator, this repo adapts p
   "role": "Contributor"
 }
 
----
 
-   License
+License
 MIT — open-source for civic builders, cultural contributors, and mythic architects.
